@@ -10,3 +10,5 @@ for i in range(lunghezza):
     password += random.choice(caratteri)
 
 print(password)
+
+input("Premi INVIO Per Uscire ...")
